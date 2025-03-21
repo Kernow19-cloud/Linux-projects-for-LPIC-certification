@@ -18,7 +18,7 @@ Clone the repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/Linux-projects-for-LPIC-certification.git
+git clone https://github.com/Kernow19-cloud/Linux-projects-for-LPIC-certification.git
 Navigate into the project directory you're interested in:
 
 bash
